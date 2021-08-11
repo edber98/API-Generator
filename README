@@ -1,0 +1,7 @@
+
+
+NE FONCTIONNE PAS : Lancer "./activate_alias.sh" pour l'utiliser n'importe ou et dans n'importe quel projet
+
+
+Il manque a integrer les tests le générateur de service d'authentification 
+Et aussi un service avec authentification
